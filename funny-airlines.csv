@@ -1,0 +1,99 @@
+FlightNumber;Source;Destination;PassengerName;PassengerId;TicketID;SeatNumber;Price
+FW001;Budapest;London;John Doe;1001;TKT0001;1A;25400
+FW002;London;Budapest;Jane Smith;1002;TKT0002;2B;27800
+FW003;Berlin;Budapest;Bob Brown;1003;TKT0003;3C;31500
+FW004;Budapest;Paris;Alice Wonderland;1004;TKT0004;4D;18200
+FW005;Paris;Budapest;Charlie Chaplin;1005;TKT0005;5A;29900
+FW006;Budapest;Rome;Daisy Duck;1006;TKT0006;6B;21000
+FW007;Rome;Budapest;Mickey Mouse;1007;TKT0007;7C;33000
+FW008;Budapest;Berlin;Minnie Mouse;1008;TKT0008;8D;22500
+FW009;Berlin;Budapest;Donald Duck;1009;TKT0009;9A;31500
+FW010;Budapest;Amsterdam;Goofy Goof;1010;TKT0010;10B;18800
+FW011;Amsterdam;Budapest;Pluto Pup;1011;TKT0011;11C;21000
+FW012;Budapest;Vienna;Scrooge McDuck;1012;TKT0012;12D;27000
+FW013;Vienna;Budapest;Huey Duck;1013;TKT0013;13A;28500
+FW014;Budapest;Prague;Dewey Duck;1014;TKT0014;14B;22000
+FW015;Prague;Budapest;Louie Duck;1015;TKT0015;15C;29500
+FW016;Budapest;Warsaw;Launchpad McQuack;1016;TKT0016;16D;26000
+FW017;Warsaw;Budapest;Webby Vanderquack;1017;TKT0017;17A;24500
+FW018;Budapest;Brussels;Gyro Gearloose;1018;TKT0018;18B;23500
+FW019;Brussels;Budapest;Fenton Crackshell;1019;TKT0019;19C;31200
+FW020;Budapest;Madrid;Gizmoduck;1020;TKT0020;20D;28900
+FW021;Madrid;Budapest;Magica De Spell;1021;TKT0021;21A;27700
+FW022;Budapest;Lisbon;Flintheart Glomgold;1022;TKT0022;22B;25500
+FW023;Lisbon;Budapest;Duckworth;1023;TKT0023;23C;29500
+FW024;Budapest;Copenhagen;Mrs. Beakley;1024;TKT0024;24D;22200
+FW025;Copenhagen;Budapest;Gladstone Gander;1025;TKT0025;25A;31500
+FW026;Budapest;Oslo;Rockerduck;1026;TKT0026;26B;27200
+FW027;Oslo;Budapest;Goldie O'Gilt;1027;TKT0027;27C;29900
+FW028;Budapest;Stockholm;Duck Dodgers;1028;TKT0028;28D;23800
+FW029;Stockholm;Budapest;Daffy Duck;1029;TKT0029;29A;26100
+FW030;Budapest;Helsinki;Bugs Bunny;1030;TKT0030;30B;24200
+FW031;Helsinki;Budapest;Elmer Fudd;1031;TKT0031;31C;28500
+FW032;Budapest;Tallinn;Sylvester Cat;1032;TKT0032;32D;27000
+FW033;Tallinn;Budapest;Tweety Bird;1033;TKT0033;33A;22000
+FW034;Budapest;Riga;Yosemite Sam;1034;TKT0034;34B;29500
+FW035;Riga;Budapest;Foghorn Leghorn;1035;TKT0035;35C;27500
+FW036;Budapest;Vilnius;Pepe Le Pew;1036;TKT0036;36D;26000
+FW037;Vilnius;Budapest;Speedy Gonzales;1037;TKT0037;37A;24500
+FW038;Budapest;Moscow;Wile E. Coyote;1038;TKT0038;38B;23500
+FW039;Moscow;Budapest;Road Runner;1039;TKT0039;39C;31200
+FW040;Budapest;Kiev;Porky Pig;1040;TKT0040;40D;28900
+FW041;Kiev;Budapest;Marvin Martian;1041;TKT0041;41A;27700
+FW042;Budapest;Bucharest;Tasmanian Devil;1042;TKT0042;42B;25500
+FW043;Bucharest;Budapest;Gossamer;1043;TKT0043;43C;29500
+FW044;Budapest;Sofia;Sam Sheepdog;1044;TKT0044;44D;22200
+FW045;Sofia;Budapest;Ralph Wolf;1045;TKT0045;45A;31500
+FW046;Budapest;Istanbul;Bertie Bird;1046;TKT0046;46B;27200
+FW047;Istanbul;Budapest;Beaky Buzzard;1047;TKT0047;47C;29900
+FW048;Budapest;Athens;Concord Condor;1048;TKT0048;48D;23800
+FW049;Athens;Budapest;Egghead Jr.;1049;TKT0049;49A;26100
+FW050;Budapest;Belgrade;Henery Hawk;1050;TKT0050;50B;24200
+FW051;Belgrade;Budapest;Miss Prissy;1051;TKT0051;51C;28500
+FW052;Budapest;Zagreb;Barnyard Dawg;1052;TKT0052;52D;27000
+FW053;Zagreb;Budapest;Charlie Dog;1053;TKT0053;53A;22000
+FW054;Budapest;Ljubljana;Sniffles Mouse;1054;TKT0054;54B;29500
+FW055;Ljubljana;Budapest;Hubie Mouse;1055;TKT0055;55C;27500
+FW056;Budapest;Sarajevo;Bert Mouse;1056;TKT0056;56D;26000
+FW057;Sarajevo;Budapest;Benny Mouse;1057;TKT0057;57A;24500
+FW058;Budapest;Podgorica;Spike Bulldog;1058;TKT0058;58B;23500
+FW059;Podgorica;Budapest;Chester Terrier;1059;TKT0059;59C;31200
+FW060;Budapest;Tirana;Marc Antony;1060;TKT0060;60D;28900
+FW061;Tirana;Budapest;Pussyfoot;1061;TKT0061;61A;27700
+FW062;Budapest;Skopje;Cecil Turtle;1062;TKT0062;62B;25500
+FW063;Skopje;Budapest;Mac Gopher;1063;TKT0063;63C;29500
+FW064;Budapest;Pristina;Tosh Gopher;1064;TKT0064;64D;22200
+FW065;Pristina;Budapest;Claude Cat;1065;TKT0065;65A;31500
+FW066;Budapest;Podgorica;Eggbert Duck;1066;TKT0066;66B;27200
+FW067;Podgorica;Budapest;Bubba Duck;1067;TKT0067;67C;29900
+FW068;Budapest;Zagreb;Doofus Drake;1068;TKT0068;68D;23800
+FW069;Zagreb;Budapest;Gandra Dee;1069;TKT0069;69A;26100
+FW070;Budapest;Ljubljana;Fethry Duck;1070;TKT0070;70B;24200
+FW071;Ljubljana;Budapest;Daisy Duck;1071;TKT0071;71C;28500
+FW072;Budapest;Sarajevo;Donald Duck;1072;TKT0072;72D;27000
+FW073;Sarajevo;Budapest;Mickey Mouse;1073;TKT0073;73A;22000
+FW074;Budapest;Belgrade;Minnie Mouse;1074;TKT0074;74B;29500
+FW075;Belgrade;Budapest;Goofy Goof;1075;TKT0075;75C;27500
+FW076;Budapest;Sofia;Pluto Pup;1076;TKT0076;76D;26000
+FW077;Sofia;Budapest;Scrooge McDuck;1077;TKT0077;77A;24500
+FW078;Budapest;Bucharest;Huey Duck;1078;TKT0078;78B;23500
+FW079;Bucharest;Budapest;Dewey Duck;1079;TKT0079;79C;31200
+FW080;Budapest;Kiev;Louie Duck;1080;TKT0080;80D;28900
+FW081;Kiev;Budapest;Launchpad McQuack;1081;TKT0081;81A;27700
+FW082;Budapest;Moscow;Webby Vanderquack;1082;TKT0082;82B;25500
+FW083;Moscow;Budapest;Gyro Gearloose;1083;TKT0083;83C;29500
+FW084;Budapest;Vilnius;Fenton Crackshell;1084;TKT0084;84D;22200
+FW085;Vilnius;Budapest;Gizmoduck;1085;TKT0085;85A;31500
+FW086;Budapest;Riga;Magica De Spell;1086;TKT0086;86B;27200
+FW087;Riga;Budapest;Flintheart Glomgold;1087;TKT0087;87C;29900
+FW088;Budapest;Tallinn;Duckworth;1088;TKT0088;88D;23800
+FW089;Tallinn;Budapest;Mrs. Beakley;1089;TKT0089;89A;26100
+FW090;Budapest;Helsinki;Gladstone Gander;1090;TKT0090;90B;24200
+FW091;Helsinki;Budapest;Rockerduck;1091;TKT0091;91C;28500
+FW092;Budapest;Stockholm;Goldie O'Gilt;1092;TKT0092;92D;27000
+FW093;Stockholm;Budapest;Duck Dodgers;1093;TKT0093;93A;22000
+FW094;Budapest;Oslo;Daffy Duck;1094;TKT0094;94B;29500
+FW095;Oslo;Budapest;Bugs Bunny;1095;TKT0095;95C;27500
+FW096;Budapest;Copenhagen;Elmer Fudd;1096;TKT0096;96D;26000
+FW097;Copenhagen;Budapest;Sylvester Cat;1097;TKT0097;97A;24500
+FW098;Budapest;Lisbon;Tweety Bird;1098;TKT0098;98B;23500
